@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXoxaDJrejV4d3F4aW1pMnF4eW1pMnF4eW1pMnF4eW1pMnF4eW1pMnF4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="30%" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"/>
+<img align="right" alt="Coding GIF" src="https://windbreeze-1328954317.cos.ap-guangzhou.myqcloud.com/windbreeze/images/2026/01/21/3ug0ia285d.png" width="30%" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"/>
 
 - 🎓 **Education**: Guangdong University of Finance | Computer Science & Technology
 - 💼 **Experience**: 
@@ -40,6 +40,9 @@
 - 🌱 **Currently Learning**: React Source Code & Webpack Engineering
 - 💡 **Focus**: Performance Optimization & Frontend Engineering
 - 📫 **Contact**: mz20220127@163.com
+
+Welcome to use Windbreeze: <a href="https://windbreeze.vercel.app/">https://windbreeze.vercel.app/</a>
+
 
 ---
 
